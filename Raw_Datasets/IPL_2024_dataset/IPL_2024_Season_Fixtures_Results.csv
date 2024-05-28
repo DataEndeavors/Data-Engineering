@@ -1,0 +1,71 @@
+Match No,Match Day,Date,Day,Start,Home,Away,Stadium,Won By
+1,1,22-03-24,Fri,Evening,Chennai Super Kings,Royal Challengers Bengaluru,Chennai,Chennai Super Kings
+2,2,23-03-24,Sat,Afternoon,Punjab Kings,Delhi Capitals,Mullanpur,Punjab Kings
+3,2,23-03-24,Sat,Evening,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata,Kolkata Knight Riders
+4,3,24-03-24,Sun,Afternoon,Rajasthan Royals,Lucknow Super Giants,Jaipur,Rajasthan Royals
+5,3,24-03-24,Sun,Evening,Gujarat Titans,Mumbai Indians,Ahmedabad,Gujarat Titans
+6,4,25-03-24,Mon,Evening,Royal Challengers Bengaluru,Punjab Kings,Bengaluru,Royal Challengers Bengaluru
+7,5,26-03-24,Tue,Evening,Chennai Super Kings,Gujarat Titans,Chennai,Chennai Super Kings
+8,6,27-03-24,Wed,Evening,Sunrisers Hyderabad,Mumbai Indians,Hyderabad,Sunrisers Hyderabad
+9,7,28-03-24,Thu,Evening,Rajasthan Royals,Delhi Capitals,Jaipur,Rajasthan Royals
+10,8,29-03-24,Fri,Evening,Royal Challengers Bengaluru,Kolkata Knight Riders,Bengaluru,Kolkata Knight Riders
+11,9,30-03-24,Sat,Evening,Lucknow Super Giants,Punjab Kings,Lucknow,Lucknow Super Giants
+12,10,31-03-24,Sun,Afternoon,Gujarat Titans,Sunrisers Hyderabad,Ahmedabad,Gujarat Titans
+13,10,31-03-24,Sun,Evening,Delhi Capitals,Chennai Super Kings,Visakhapatnam,Delhi Capitals
+14,11,01-04-24,Mon,Evening,Mumbai Indians,Rajasthan Royals,Mumbai,Rajasthan Royals
+15,12,02-04-24,Tue,Evening,Royal Challengers Bengaluru,Lucknow Super Giants,Bengaluru,Lucknow Super Giants
+16,13,03-04-24,Wed,Evening,Delhi Capitals,Kolkata Knight Riders,Visakhapatnam,Kolkata Knight Riders
+17,14,04-04-24,Thu,Evening,Gujarat Titans,Punjab Kings,Ahmedabad,Punjab Kings
+18,15,05-04-24,Fri,Evening,Sunrisers Hyderabad,Chennai Super Kings,Hyderabad,Sunrisers Hyderabad
+19,16,06-04-24,Sat,Evening,Rajasthan Royals,Royal Challengers Bengaluru,Jaipur,Rajasthan Royals
+20,17,07-04-24,Sun,Afternoon,Mumbai Indians,Delhi Capitals,Mumbai,Mumbai Indians
+21,17,07-04-24,Sun,Evening,Lucknow Super Giants,Gujarat Titans,Lucknow,Lucknow Super Giants
+22,18,08-04-24,Mon,Evening,Chennai Super Kings,Kolkata Knight Riders,Chennai,Chennai Super Kings
+23,19,09-04-24,Tue,Evening,Punjab Kings,Sunrisers Hyderabad,Mullanpur,Sunrisers Hyderabad
+24,20,10-04-24,Wed,Evening,Rajasthan Royals,Gujarat Titans,Jaipur,Gujarat Titans
+25,21,11-04-24,Thu,Evening,Mumbai Indians,Royal Challengers Bengaluru,Mumbai,Mumbai Indians
+26,22,12-04-24,Fri,Evening,Lucknow Super Giants,Delhi Capitals,Lucknow,Delhi Capitals
+27,23,13-04-24,Sat,Evening,Punjab Kings,Rajasthan Royals,Mullanpur,Rajasthan Royals
+28,24,14-04-24,Sun,Afternoon,Kolkata Knight Riders,Lucknow Super Giants,Kolkata,Kolkata Knight Riders
+29,24,14-04-24,Sun,Evening,Mumbai Indians,Chennai Super Kings,Mumbai,Chennai Super Kings
+30,25,15-04-24,Mon,Evening,Royal Challengers Bengaluru,Sunrisers Hyderabad,Bengaluru,Sunrisers Hyderabad
+31,26,16-04-24,Tue,Evening,Kolkata Knight Riders,Rajasthan Royals,Kolkata,Rajasthan Royals
+32,27,17-04-24,Wed,Evening,Gujarat Titans,Delhi Capitals,Ahmedabad,Delhi Capitals
+33,28,18-04-24,Thu,Evening,Punjab Kings,Mumbai Indians,Mullanpur,Mumbai Indians
+34,29,19-04-24,Fri,Evening,Lucknow Super Giants,Chennai Super Kings,Lucknow,Lucknow Super Giants
+35,30,20-04-24,Sat,Evening,Delhi Capitals,Sunrisers Hyderabad,Delhi,Sunrisers Hyderabad
+36,31,21-04-24,Sun,Afternoon,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata,Kolkata Knight Riders
+37,31,21-04-24,Sun,Evening,Punjab Kings,Gujarat Titans,Mullanpur,Gujarat Titans
+38,32,22-04-24,Mon,Evening,Rajasthan Royals,Mumbai Indians,Jaipur,Rajasthan Royals
+39,33,23-04-24,Tue,Evening,Chennai Super Kings,Lucknow Super Giants,Chennai,Lucknow Super Giants
+40,34,24-04-24,Wed,Evening,Delhi Capitals,Gujarat Titans,Delhi,Delhi Capitals
+41,35,25-04-24,Thu,Evening,Sunrisers Hyderabad,Royal Challengers Bengaluru,Hyderabad,Royal Challengers Bengaluru
+42,36,26-04-24,Fri,Evening,Kolkata Knight Riders,Punjab Kings,Kolkata,Punjab Kings
+43,37,27-04-24,Sat,Afternoon,Delhi Capitals,Mumbai Indians,Delhi,Delhi Capitals
+44,37,27-04-24,Sat,Evening,Lucknow Super Giants,Rajasthan Royals,Lucknow,Rajasthan Royals
+45,38,28-04-24,Sun,Afternoon,Gujarat Titans,Royal Challengers Bengaluru,Ahmedabad,Royal Challengers Bengaluru
+46,38,28-04-24,Sun,Evening,Chennai Super Kings,Sunrisers Hyderabad,Chennai,Chennai Super Kings
+47,39,29-04-24,Mon,Evening,Kolkata Knight Riders,Delhi Capitals,Kolkata,Kolkata Knight Riders
+48,40,30-04-24,Tue,Evening,Lucknow Super Giants,Mumbai Indians,Lucknow,Lucknow Super Giants
+49,41,01-05-24,Wed,Evening,Chennai Super Kings,Punjab Kings,Chennai,Punjab Kings
+50,42,02-05-24,Thu,Evening,Sunrisers Hyderabad,Rajasthan Royals,Hyderabad,Sunrisers Hyderabad
+51,43,03-05-24,Fri,Evening,Mumbai Indians,Kolkata Knight Riders,Mumbai,Kolkata Knight Riders
+52,44,04-05-24,Sat,Evening,Royal Challengers Bengaluru,Gujarat Titans,Bengaluru,Royal Challengers Bengaluru
+53,45,05-05-24,Sun,Afternoon,Punjab Kings,Chennai Super Kings,Dharamshala,Chennai Super Kings
+54,45,05-05-24,Sun,Evening,Lucknow Super Giants,Kolkata Knight Riders,Lucknow,Kolkata Knight Riders
+55,46,06-05-24,Mon,Evening,Mumbai Indians,Sunrisers Hyderabad,Mumbai,Mumbai Indians
+56,47,07-05-24,Tue,Evening,Delhi Capitals,Rajasthan Royals,Delhi,Delhi Capitals
+57,48,08-05-24,Wed,Evening,Sunrisers Hyderabad,Lucknow Super Giants,Hyderabad,Sunrisers Hyderabad
+58,49,09-05-24,Thu,Evening,Punjab Kings,Royal Challengers Bengaluru,Dharamshala,Royal Challengers Bengaluru
+59,50,10-05-24,Fri,Evening,Gujarat Titans,Chennai Super Kings,Ahmedabad,Gujarat Titans
+60,51,11-05-24,Sat,Evening,Kolkata Knight Riders,Mumbai Indians,Kolkata,Kolkata Knight Riders
+61,52,12-05-24,Sun,Afternoon,Chennai Super Kings,Rajasthan Royals,Chennai,Chennai Super Kings
+62,52,12-05-24,Sun,Evening,Royal Challengers Bengaluru,Delhi Capitals,Bengaluru,Royal Challengers Bengaluru
+63,53,13-05-24,Mon,Evening,Gujarat Titans,Kolkata Knight Riders,Ahmedabad,Match Abandoned
+64,54,14-05-24,Tue,Evening,Delhi Capitals,Lucknow Super Giants,Delhi,Delhi Capitals
+65,55,15-05-24,Wed,Evening,Rajasthan Royals,Punjab Kings,Guwahati,Punjab Kings
+66,56,16-05-24,Thu,Evening,Sunrisers Hyderabad,Gujarat Titans,Hyderabad,Match Abandoned
+67,57,17-05-24,Fri,Evening,Mumbai Indians,Lucknow Super Giants,Mumbai,Lucknow Super Giants
+68,58,18-05-24,Sat,Evening,Royal Challengers Bengaluru,Chennai Super Kings,Bengaluru,Royal Challengers Bengaluru
+69,59,19-05-24,Sun,Afternoon,Sunrisers Hyderabad,Punjab Kings,Hyderabad,Sunrisers Hyderabad
+70,59,19-05-24,Sun,Evening,Rajasthan Royals,Kolkata Knight Riders,Guwahati,Match Abandoned
