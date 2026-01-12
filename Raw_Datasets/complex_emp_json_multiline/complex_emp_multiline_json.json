@@ -1,0 +1,100 @@
+[
+  {
+    "employee_id": 101,
+    "name": "Alice",
+    "department": {
+      "name": "Engineering",
+      "location": "New York"
+    },
+    "projects": [
+      {"project_id": 1, "name": "AI Development", "budget": 500000},
+      {"project_id": 2, "name": "Data Pipeline", "budget": 200000}
+    ],
+    "salary": 120000
+  },
+  {
+    "employee_id": 102,
+    "name": "Bob",
+    "department": {
+      "name": "Engineering",
+      "location": "San Francisco"
+    },
+    "projects": [
+      {"project_id": 3, "name": "Cloud Migration", "budget": 300000},
+      {"project_id": 4, "name": "Data Analysis", "budget": 150000}
+    ],
+    "salary": 110000
+  },
+  {
+    "employee_id": 103,
+    "name": "Charlie",
+    "department": {
+      "name": "HR",
+      "location": "Chicago"
+    },
+    "projects": [
+      {"project_id": 5, "name": "Recruitment Portal", "budget": 100000}
+    ],
+    "salary": 80000
+  },
+  {
+    "employee_id": 104,
+    "name": "Diana",
+    "department": {
+      "name": "Marketing",
+      "location": "New York"
+    },
+    "projects": [
+      {"project_id": 6, "name": "Social Media Campaign", "budget": 200000},
+      {"project_id": 7, "name": "Brand Strategy", "budget": 250000}
+    ],
+    "salary": 95000
+  },
+  {
+    "employee_id": 105,
+    "name": "Eve",
+    "department": {
+      "name": "Finance",
+      "location": "Boston"
+    },
+    "projects": [],
+    "salary": 75000
+  },
+  {
+    "employee_id": 106,
+    "name": "Frank",
+    "department": {
+      "name": "Engineering",
+      "location": "San Francisco"
+    },
+    "projects": [
+      {"project_id": 8, "name": "IoT Integration", "budget": 400000},
+      {"project_id": 9, "name": "Network Security", "budget": 350000}
+    ],
+    "salary": 130000
+  },
+  {
+    "employee_id": 107,
+    "name": "Grace",
+    "department": {
+      "name": "Marketing",
+      "location": "Chicago"
+    },
+    "projects": [
+      {"project_id": 10, "name": "Product Launch", "budget": 300000}
+    ],
+    "salary": 90000
+  },
+    {
+    "employee_id": 108,
+    "name": "Raj",
+    "department": {
+      "name": "Finance",
+      "location": "Bangalore"
+    },
+    "projects": [
+      {"project_id": 11, "name": "After Sales Service", "budget": 45000}
+    ],
+    "salary": 125000
+  }
+]
